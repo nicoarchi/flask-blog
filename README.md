@@ -9,3 +9,5 @@ This blog was made using Flask and SQLite for the backend and Bootstrap for the 
 N. Architector
 
 ## Deployed with Heroku
+
+https://flask-blog-architector.herokuapp.com/
